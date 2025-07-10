@@ -1,0 +1,1 @@
+# OpenVINO_Mini_Proj
